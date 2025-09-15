@@ -1,4 +1,4 @@
-![[Pasted image 20250915143136.png]]
+<img width="859" height="195" alt="Pasted image 20250915143136" src="https://github.com/user-attachments/assets/93d428fc-38a4-4eab-8c61-c413c714cc33" />
 
 ```
 N: 
@@ -17,14 +17,14 @@ cyphertext: 53563031088469461910631294295968368477491465582581353561250060945801
 
 From here you could make a python script or use an online website:
 
-![[Pasted image 20250915143417.png]]
+<img width="678" height="286" alt="Pasted image 20250915143417" src="https://github.com/user-attachments/assets/7f01dd10-727e-46df-a3a9-6446b63bb27f" />
 
 https://www.dcode.fr/rsa-cipher
 
 
 Then put your Ciphertext and N value to get the flag:
 
-![[Pasted image 20250915143530.png]]
+<img width="826" height="529" alt="Pasted image 20250915143530" src="https://github.com/user-attachments/assets/026e376b-868e-440e-a867-dd67e924855a" />
 
 ```
 picoCTF{tw0_1$_pr!m31c9046c4}
