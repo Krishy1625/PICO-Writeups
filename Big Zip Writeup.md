@@ -8,8 +8,9 @@ grep -r "pico" big-zip-files/
 ```
 
 
+<img width="862" height="128" alt="Pasted image 20250915133610" src="https://github.com/user-attachments/assets/f51ee667-8a10-4c55-80c3-21497ab510f5" />
 
-![[Pasted image 20250915133610.png]]
+
 
 to get the flag
 
